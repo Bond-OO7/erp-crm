@@ -6,7 +6,7 @@
     <p align="center">
         <p>IDURAR ERP CRM | Simple To Use </p>
     </p>
-    
+     
 
   [www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
 
