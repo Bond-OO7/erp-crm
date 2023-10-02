@@ -8,10 +8,10 @@ async function setupApp() {
   try {
     const Admin = require('../models/coreModels/Admin');
     var newAdmin = new Admin();
-    const passwordHash = newAdmin.generateHash('admin123');
+    const passwordHash = newAdmin.generateHash('delndeowfnm!ED@#R#@2');
 
     await new Admin({
-      email: 'admin@demo.com',
+      email: 'andckndef@demo.com',
       password: passwordHash,
       name: 'Salah Eddine',
       surname: 'Lalami',
